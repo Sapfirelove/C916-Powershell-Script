@@ -1,0 +1,19 @@
+
+Mode  LastWriteTime          Length Name
+----  -------------          ------ ----
+----- 12/20/2020 4:30:08 PM   14941 10.1clients.xlsx
+----- 12/20/2020 4:31:28 PM   16935 8.1clients.xlsx
+----- 12/20/2020 4:31:42 PM   17156 9.1clients.xlsx
+----- 12/20/2020 4:32:32 PM 2779843 apache_access.log
+----- 12/20/2020 3:28:47 PM       0 C916contents.txt
+----- 12/20/2020 3:27:55 PM    2190 DailyLog.txt
+----- 12/20/2020 4:32:46 PM   16189 eventA.log
+----- 12/20/2020 4:33:00 PM   15667 eventB.log
+----- 12/20/2020 4:33:02 PM   15766 eventC.log
+----- 12/20/2020 4:33:02 PM   16693 eventD.log
+----- 12/20/2020 4:33:02 PM   16671 eventE.log
+----- 12/20/2020 5:09:30 PM   40132 Prompt B3 Result.PNG
+----- 12/20/2020 5:10:30 PM   65885 Prompt B4 Result.PNG
+----- 12/20/2020 3:28:18 PM    1741 prompts.ps1
+----- 12/20/2020 4:30:04 PM   95010 swedenCarnivalEvent.jpg
+
